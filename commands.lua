@@ -15,7 +15,7 @@ local Player = Players.LocalPlayer
 
 -- now that the logic is done, heres the code for the commands and UI
 
-local Library = loadstring(game:HttpGet("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau"))()
+local Library = loadstring(game:HttpGet("https://github.com/morodve-netizen/Atlas-scanner/edit/main/Fluent.luau"))()
 
 local Window = Library:CreateWindow{
 	Title = "Strawberry Commands FE | v1.3.2",
